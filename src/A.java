@@ -8,5 +8,6 @@ public class A {
         System.out.println("Hello, Max!!");
         System.out.println("Hello, Max!!");
         System.out.println("Hello, Max!!");
+        System.out.println("Hello, Max!!");
     }
 }
